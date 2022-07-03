@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "9c918509f7d10238",
+            "max_int": "a6c9a9d3cf96751f",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Carlos Feria",
+            "photo": "https://i.postimg.cc/MKCBNVnd/6dac03ca5cd84781929aa3c24d4a3d35.jpg",
+            "voice": "https://ringy9.github.io/Carlos-Feria/src_assets_carlosferia_vid.mp4",
+            "video": "https://ringy9.github.io/Carlos-Feria/src_assets_carlosferia_vid.mp4",
+            "stories": [
+               "https://i.postimg.cc/zBxWcQhg/0086fb82f2653fe6d730b964eb06f8c0.jpg",
+"https://i.postimg.cc/x8qHDPGF/188556052-947189339411751-4010887157183723538-n.jpg",
+"https://i.postimg.cc/rpC5SsFg/1b9f3ad343b29c8ccfe16e72d008a3b8.jpg",
+"https://i.postimg.cc/tTqWDbsb/4e0dd58f6d491d1bfa4b722163d1789f.jpg",
+"https://i.postimg.cc/SQtCLwk0/63046f65b719531d1509311406144781-0000000.jpg",
+"https://i.postimg.cc/MKCBNVnd/6dac03ca5cd84781929aa3c24d4a3d35.jpg",
+"https://i.postimg.cc/rw54ksWc/a046b4fbc865d61b8fb5f9478f78c7ee.jpg",
+"https://i.postimg.cc/SKqMN479/ad77564f70632ccc3fccf9d427fbb71e.jpg",
+"https://i.postimg.cc/zvMhJR0D/channels4-profile.jpg",
+"https://i.postimg.cc/zXbWx0Gy/d693bcaa868b483d8bc7c1f8c3706f2a.jpg",
+"https://i.postimg.cc/W31qg7yb/MOB6-YMFV2-ZFZTHQBB3-KSR4-ID7-Y.jpg"
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/zBxWcQhg/0086fb82f2653fe6d730b964eb06f8c0.jpg",
+"https://i.postimg.cc/x8qHDPGF/188556052-947189339411751-4010887157183723538-n.jpg",
+"https://i.postimg.cc/rpC5SsFg/1b9f3ad343b29c8ccfe16e72d008a3b8.jpg",
+"https://i.postimg.cc/tTqWDbsb/4e0dd58f6d491d1bfa4b722163d1789f.jpg",
+"https://i.postimg.cc/SQtCLwk0/63046f65b719531d1509311406144781-0000000.jpg",
+"https://i.postimg.cc/MKCBNVnd/6dac03ca5cd84781929aa3c24d4a3d35.jpg",
+"https://i.postimg.cc/rw54ksWc/a046b4fbc865d61b8fb5f9478f78c7ee.jpg",
+"https://i.postimg.cc/SKqMN479/ad77564f70632ccc3fccf9d427fbb71e.jpg",
+"https://i.postimg.cc/zvMhJR0D/channels4-profile.jpg",
+"https://i.postimg.cc/zXbWx0Gy/d693bcaa868b483d8bc7c1f8c3706f2a.jpg",
+"https://i.postimg.cc/W31qg7yb/MOB6-YMFV2-ZFZTHQBB3-KSR4-ID7-Y.jpg"
+            ]
+          
+        }
+    ]
+}
